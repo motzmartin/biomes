@@ -1,6 +1,6 @@
 # Biomes
 
-!!! Block textures are not mine !!!
+Biomes is a web exploration game, made in JavaScript.
 
 ### Screenshots
 
