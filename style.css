@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+
+canvas {
+    cursor: none;
+    image-rendering: pixelated;
+    scale: 3;
+    transform-origin: left top;
+}
+
+img {
+    display: none;
+}
