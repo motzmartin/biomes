@@ -2,7 +2,7 @@
 
 Biomes is a web exploration game, made in JavaScript.
 
-Currently, I am doing this project in C++. New biomes, new mechanics, and more. Here is an overview:
+Currently, I am doing this project in C++. New biomes, new mechanics, and more. Here is an overview:  
 ![image](https://user-images.githubusercontent.com/94078957/212390098-d63eab3d-b5af-41b2-8d59-122199a51bbc.png)
 
 ### Screenshots
