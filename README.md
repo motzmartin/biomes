@@ -2,6 +2,8 @@
 
 Biomes is a web exploration game, made in JavaScript.
 
+![image](https://user-images.githubusercontent.com/94078957/212390098-d63eab3d-b5af-41b2-8d59-122199a51bbc.png)
+
 ### Screenshots
 
 ![image](https://user-images.githubusercontent.com/94078957/212109744-6c2982c8-86f7-4a99-92c5-71f73102af84.png)
